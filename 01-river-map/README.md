@@ -1,3 +1,4 @@
+<img width="3507" height="2480" alt="up_RIVER" src="https://github.com/user-attachments/assets/0f7e71bc-76c5-4d63-b4fc-b50cccfefa94" />
 # 01 — Uttar Pradesh River Network
 
 ![Uttar Pradesh River Network Map](up_river_network.png)
@@ -67,7 +68,8 @@ pattern reads clearly at state scale.
 
 ---
 
-## About this portfolio
+## About this portfolio<img width="3507" height="2480" alt="up_RIVER" src="https://github.com/user-attachments/assets/2f0dc0e9-6e20-494c-aecb-eb8127072b1d" />
+
 
 This is **Project 1 of 12** in my QGIS learning portfolio.
 Learning path: QGIS → Python (GeoPandas, Rasterio) → R (sf, terra) → PostGIS.
