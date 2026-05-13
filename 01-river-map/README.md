@@ -68,7 +68,7 @@ pattern reads clearly at state scale.
 
 ---
 
-## About this portfolio<img width="3507" height="2480" alt="up_RIVER" src="https://github.com/user-attachments/assets/2f0dc0e9-6e20-494c-aecb-eb8127072b1d" />
+## About this portfolio
 
 
 This is **Project 1 of 12** in my QGIS learning portfolio.
