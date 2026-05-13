@@ -59,12 +59,7 @@ pattern reads clearly at state scale.
 
 ---
 
-## What I would improve next
 
-- Add UP **district boundaries** as a light grey context layer
-- Add **major city points** (Lucknow, Varanasi, Prayagraj, Agra)
-- Classify into **3 tiers** — major / minor / seasonal waterways
-- Add an **inset map** showing UP within India
 
 ---
 
