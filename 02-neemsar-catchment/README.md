@@ -99,17 +99,8 @@ streamflow data for water resource management in UP.
 |-------|-----|------|
 | Raw data | WGS84 geographic | 4326 |
 | Analysis and map | WGS84 / UTM Zone 43N | 32643 |
+<img width="3507" height="2480" alt="neemar_catchment" src="https://github.com/user-attachments/assets/1b4dfcd9-081e-4aba-b3ad-fa3d5c75e211" />
 
----
-
-## What I would add in the next version
-
-- DEM-derived elevation as a hillshade backdrop
-- Stream order classification (Strahler ordering) with
-  graduated line weights
-- District boundaries of Sitapur and surrounding districts
-- Flood inundation zones along the Gomti corridor
-- Flow accumulation raster overlay
 
 ---
 
