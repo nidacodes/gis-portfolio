@@ -1,8 +1,7 @@
 # 02 — Neemsar Catchment Delineation
 ## Gomti River Basin, Uttar Pradesh
 
-![Neemsar Catchme<img width="3507" height="2480" alt="neemar_catchment" src="https://github.com/user-attachments/assets/534885b8-4615-4924-9914-8e94c9420c69" />
-nt — Gomti River Basin, Uttar Pradesh](neemsar_catchment.png)
+
 
 ---
 
