@@ -1,7 +1,8 @@
 # 03 — India Population Density Map
 ## State-level Choropleth · Census 2011
 
-![India Population Density Map](india_population_density.png)
+<img width="3507" height="2480" alt="Pop_density" src="https://github.com/user-attachments/assets/79342632-7e4e-4f58-b805-310d4e470f3c" />
+
 
 ---
 
@@ -116,12 +117,10 @@ encountered in every professional project.
 This is **Project 3 of 12** in my QGIS portfolio.
 Learning path: QGIS → Python (GeoPandas) → R (sf, terra) → PostGIS.
 
-**Next project:** Green Space Accessibility Analysis —
-buffer and intersect operations in Lucknow.
+
 
 ---
 
 *Data: Census of India 2011 · GADM Administrative Boundaries*
 *Made with QGIS 3.44 · CRS: EPSG:32643 — WGS84 / UTM Zone 43N*
 
-<img width="3507" height="2480" alt="Pop_density" src="https://github.com/user-attachments/assets/79342632-7e4e-4f58-b805-310d4e470f3c" />
