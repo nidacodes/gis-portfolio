@@ -1,4 +1,7 @@
 # Spatial Rainfall Analysis — Gomti Basin (1980–2023)
+<img width="3507" height="2480" alt="rainfall_map" src="https://github.com/user-attachments/assets/b2456340-6c36-4c01-9c49-4bc5bdd4e6aa" />
+<img width="2480" height="3508" alt="Layout" src="https://github.com/user-attachments/assets/11e87577-589e-427d-af35-8a6e31d29653" />
+<img width="2480" height="3508" alt="monsoon" src="https://github.com/user-attachments/assets/67ab78aa-fac2-48f6-ad69-058372ba4061" />
 
 ## Overview
 Spatial analysis of 44 years of IMD rainfall data across 17 districts of the Gomti Basin, Uttar Pradesh. This project produces choropleth maps showing mean annual rainfall distribution and Mann-Kendall trend patterns across the basin.
@@ -26,8 +29,5 @@ Spatial analysis of 44 years of IMD rainfall data across 17 districts of the Gom
 This is Project 4 of a 12-project QGIS learning series covering remote sensing, hydrology, urban planning, and environmental analysis.
 
 ## Related Publication
-Mann-Kendall trend analysis of Gomti Basin rainfall — <img width="2480" height="3508" alt="monsoon" src="https://github.com/user-attachments/assets/67ab78aa-fac2-48f6-ad69-058372ba4061" />
-<img width="2480" height="3508" alt="Layout" src="https://github.com/user-attachments/assets/11e87577-589e-427d-af35-8a6e31d29653" />
-
-<img width="3507" height="2480" alt="rainfall_map" src="https://github.com/user-attachments/assets/b2456340-6c36-4c01-9c49-4bc5bdd4e6aa" />
+Mann-Kendall trend analysis of Gomti Basin rainfall — 
 (https://link.springer.com/article/10.1007/s00704-026-06062-9)
