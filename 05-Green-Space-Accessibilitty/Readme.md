@@ -1,4 +1,4 @@
-# 04 — Green Space Accessibility Analysis
+# 05 — Green Space Accessibility Analysis
 ## Lucknow, Uttar Pradesh
 
 ![Green Space Accessibility — Lucknow](Lucknow_green_space.png)
@@ -9,7 +9,8 @@
 
 A spatial accessibility analysis of **green spaces in Lucknow, Uttar Pradesh**
 — mapping which parts of the city fall within walking distance of a park,
-garden, playground, or sports ground.
+garden, playground, or sports ground.<img width="3507" height="2480" alt="Lucknow_green_space" src="https://github.com/user-attachments/assets/7a936fe9-9fdb-49f3-a90d-24b52226cb24" />
+
 
 ### Key finding
 
@@ -115,15 +116,6 @@ Always reproject to UTM before any distance-based operation.
 
 ---
 
-## What I would improve next
-
-- Add **ward boundary layer** to calculate green space access
-  per ward — identify the most underserved administrative units
-- Add **population data** per ward to estimate number of
-  residents without green space access
-- Add **Gomti River corridor** as a separate green infrastructure layer
-- Compare with **WHO recommendation** of 9m² green space per person
-- Extend analysis to other UP cities — Varanasi, Kanpur, Agra
 
 ---
 
