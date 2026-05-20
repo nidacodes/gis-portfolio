@@ -1,7 +1,6 @@
 # 05 — Green Space Accessibility Analysis
 ## Lucknow, Uttar Pradesh
 
-![Green Space Accessibility — Lucknow](Lucknow_green_space.png)
 
 ---
 
