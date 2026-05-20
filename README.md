@@ -12,3 +12,4 @@ Learning GIS from scratch — QGIS → Python → R → PostGIS.
 | 02 | [Neemsar Catchment Delineation](02-neemsar-catchment) | QGIS, GEE, HydroSHEDS | ✅ Done |
 | 03 | [India Population Density](./03-population-density) | QGIS, Census 2011 | ✅ Done |
 | 04 | [Spatial Rainfall Analysis](./04-Spatial-Rainfall-Analysis) | QGIS, IMD, MK TEST, PYTHON | ✅ Done |
+| 05 | [Green Space Accessibility — Lucknow](./04-green-space-lucknow) | QGIS, QuickOSM, Buffer | ✅ Done |
