@@ -120,7 +120,7 @@ Always reproject to UTM before any distance-based operation.
 
 ## Part of my GIS learning portfolio
 
-This is **Project 4 of 12** in my QGIS portfolio.
+This is **Project 5 of 12** in my QGIS portfolio.
 Learning path: QGIS → Python (GeoPandas) → R (sf, terra) → PostGIS.
 
 **Next project:** Flood Risk Zone Mapping — SRTM DEM,
