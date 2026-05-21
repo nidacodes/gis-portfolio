@@ -57,7 +57,7 @@ its corridor despite being a significant river.
 
 | Source | Data used |
 |--------|-----------|
-| SRTM 30m (USGS) | Digital Elevation Model — elevation values per 30m pixel |
+| SRTM 30m via OpenTopography plugin (QGIS) | Digital Elevation Model | earthexplorer.usgs.gov |
 | National Water Data Portal (GoI) | River network — Gomti, Sai, Nalas |
 | Own data | Lucknow city boundary shapefile |
 
@@ -65,8 +65,9 @@ its corridor despite being a significant river.
 
 ## Workflow
 
-1. Downloaded **SRTM 30m DEM** covering Lucknow using
-   SRTM Downloader plugin in QGIS
+1. Downloaded SRTM 30m DEM directly into QGIS using the 
+   OpenTopography plugin — set extent to Lucknow boundary,
+   API key from portal.opentopography.org
 2. **Reprojected DEM** from EPSG:4326 to EPSG:32643
    (WGS84 / UTM Zone 43N) using Raster → Warp (Reproject)
 3. Used **Raster Calculator** to classify elevation into
@@ -107,7 +108,7 @@ its corridor despite being a significant river.
 | Tool | Purpose |
 |------|---------|
 | QGIS 3.44 | Main GIS platform |
-| SRTM Downloader plugin | DEM download |
+| OpenTopography plugin (QGIS) | DEM download directly into QGIS |
 | Raster Calculator | Flood zone classification |
 | National Water Data Portal | River network data |
 
