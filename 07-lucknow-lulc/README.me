@@ -1,15 +1,15 @@
-# Project 07 — Lucknow Land Use Land Cover Map
+Project 07 — Lucknow Land Use Land Cover Map
 
 
 
-## Overview
+Overview
 A landcover map of Lucknow district, Uttar Pradesh, India.
 Built using ESRI 10m LULC 2024 data with a hillshade layer
 for terrain depth. Part of a 12-project QGIS learning series.
 
 ---
 
-## Data Sources
+Data Sources
 | Dataset | Source | Resolution |
 |---|---|---|
 | Land Use Land Cover | ESRI LULC 2024 | 10m |
@@ -18,7 +18,7 @@ for terrain depth. Part of a 12-project QGIS learning series.
 
 ---
 
-## Landcover Classes
+Landcover Classes
 | Class | Colour |
 |---|---|
 | Built-up Area | Red |
@@ -32,7 +32,7 @@ for terrain depth. Part of a 12-project QGIS learning series.
 
 ---
 
-## Workflow
+Workflow
 1. Download ESRI LULC 2024 GeoTIFF for Lucknow area
 2. Download SRTM DEM tiles and merge
 3. Clip both rasters to Lucknow district boundary
@@ -43,7 +43,7 @@ for terrain depth. Part of a 12-project QGIS learning series.
 
 ---
 
-## Key Challenge
+Key Challenge
 Layers were in different coordinate reference systems —
 some in projected metres (UTM Zone 44N) and others in
 geographic decimal degrees (WGS 84). Resolved by
@@ -53,7 +53,7 @@ scale in the final output.
 
 ---
 
-## Tools Used
+Tools Used
 - QGIS 3.34
 - Raster → Analysis → Hillshade
 - Raster → Extraction → Clip by Mask Layer
