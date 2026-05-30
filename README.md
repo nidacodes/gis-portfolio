@@ -15,3 +15,4 @@ Learning GIS from scratch — QGIS → Python → R → PostGIS.
 | 05 | [Green Space Accessibility — Lucknow](./05-Green-Space-Accessibilitty) | QGIS, QuickOSM, Buffer | ✅ Done |
 | 06 | [Flood Risk Zone Map — Lucknow](./06-flood-risk-lucknow) | QGIS, SRTM DEM, Raster Calculator | ✅ Done |
 | 07 | [Landuse Landcover Lucknow](./07-lucknow-lulc) | QGIS, SRTM DEM, LULC, ESRI 10M | ✅ Done |
+| 08 | [Spectral Indices Lucknow](./08-Spectral-Indices) | QGIS, SENTINEL 2A, INDICES, RASTER | ✅ Done |
