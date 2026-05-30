@@ -31,10 +31,9 @@ landscape using specific band combinations.
 
 ## Key findings from the indices
 
-**NDVI (max: 0.69)** — Vegetation is concentrated in the eastern
-zones (Gomti Nagar, Kukrail Reserve) and scattered parks. The dense
-urban core shows low NDVI — consistent with Project 04 green space
-findings showing only 18.2% within 500m of green space.
+**NDVI (max: 0.69)** — Low vegetation dominates most of Lucknow city shown by red/orange across the urban core. Healthy vegetation (green) appears only in small scattered patches — consistent with Project 04 findings showing only 18.2% of the city within 500m of a green space. February dry season further reduces vegetation vigour across the city.
+
+
 
 **NDBI (max: 0.39)** — High built-up density across the central
 and northern city — Chowk, Hazratganj, Mahanagar corridor clearly
